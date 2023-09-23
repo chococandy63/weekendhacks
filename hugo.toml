@@ -1,0 +1,5 @@
+baseURL = 'https://weekendhacks.chococandy.dev/'
+languageCode = 'en-us'
+title = 'WeekendHacks'
+theme = 'poison'
+
