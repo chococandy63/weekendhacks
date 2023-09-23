@@ -1,11 +1,13 @@
-+++
-title = 'Driving FreeBSD'
-date = 2023-09-23T12:11:39+05:30
-draft = true
-+++
+---
+title: "Driving FreeBSD"
+date: 2023-09-23
+draft: false
+hideToc: false
+tags: ["tech"]
+---
 
 ## Introduction
 
 This is **freeBSD**
 
-Visit the [Hugo](https://gohugo.io) website!
+I planned to hack into Whatsapp servers..
