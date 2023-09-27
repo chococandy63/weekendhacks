@@ -1,4 +1,4 @@
-baseURL = 'https://weekendhacks.vercel.app/'
+baseURL = 'https://github.com/chococandy63/weekendhacks'
 languageCode = 'en-us'
 title = 'WeekendHacks'
 theme = 'poison'
