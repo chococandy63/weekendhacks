@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/chococandy63/weekendhacks'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'WeekendHacks'
 theme = 'poison'
